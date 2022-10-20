@@ -1,5 +1,5 @@
 const nameGirl = 'Ngọc Anh';
-const giftUrl = 'https://www.facebook.com/Ngocanhcrazy0212';
+const giftUrl = 'https://www.facebook.com/NganhDo23';
 const eventName = 'Chúc Mừng 20-10';
 const titleCard = 'Dear Ngọc Anh';
 const contentCard = 'Nhân ngày 20/10, tớ chúc Ngọc Anh luôn vui vẻ, yêu đời, ngày càng xinh đẹp, học giỏi.Và trên hết tớ mong rằng NA sẽ luôn gặp thuận lợi trong cuộc sống,vơi đi nỗi buồn và càng nhiều niềm vui.';
